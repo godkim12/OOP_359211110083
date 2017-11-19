@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75b16d15-0c3b-4608-9988-f223f5c564e3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110083/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110083/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110083/src/oop_lab/s359211110083/rmutsv/com/HelloWold.java" afterPath="$PROJECT_DIR$/../OOP_359211110083/src/oop_lab/s359211110083/rmutsv/com/HelloWold.java" />
-    </list>
+    <list default="true" id="75b16d15-0c3b-4608-9988-f223f5c564e3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../OOP_359211110083/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -229,6 +226,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511076170057</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add information">
+      <created>1511079525918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511079525918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -265,6 +270,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add information" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
