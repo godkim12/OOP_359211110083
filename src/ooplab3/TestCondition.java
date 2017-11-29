@@ -20,6 +20,7 @@ public class TestCondition {
         else
             System.out.println("x equal 30");
 
+
     }//main
 
 
