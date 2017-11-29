@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75b16d15-0c3b-4608-9988-f223f5c564e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestLoopFor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab3/TestSwtich.java" afterPath="$PROJECT_DIR$/src/ooplab3/TestSwtich.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -397,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511925090561</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TestSwtich">
+      <created>1511927170890</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511927170890</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -442,7 +447,8 @@
     <MESSAGE value="if//if-else//if-else-if" />
     <MESSAGE value="TestCondition" />
     <MESSAGE value="Calgrade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calgrade" />
+    <MESSAGE value="TestSwtich" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestSwtich" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
