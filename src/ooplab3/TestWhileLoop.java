@@ -17,6 +17,7 @@ public class TestWhileLoop {
         int input = 0;
         int count = 0;
         while (input != pin) {
+
             System.out.print("Enter your password: ");
             input = scanner.nextInt();
             count++;
