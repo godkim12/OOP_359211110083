@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75b16d15-0c3b-4608-9988-f223f5c564e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestNestedLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab4/TestMethods.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,12 +15,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestNestedLoop.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab3/TestNestedLoop.java">
+      <file leaf-file-name="TestMethods.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab4/TestMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="442">
+              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/ooplab3/TestDOWhileLoop.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/TestNestedLoop.java" />
+        <option value="$PROJECT_DIR$/src/ooplab4/TestMethods.java" />
       </list>
     </option>
   </component>
@@ -101,19 +109,7 @@
               <item name="OOP_359211110083" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP_359211110083" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_359211110083" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_359211110083" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ooplab2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_359211110083" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_359211110083" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ooplab3" type="462c0819:PsiDirectoryNode" />
+              <item name="ooplab4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestNestedLoop">
+  <component name="RunManager" selected="Application.TestMethods">
     <configuration name="TestCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -178,14 +174,14 @@
       <module name="OOP_359211110083" />
       <envs />
     </configuration>
-    <configuration name="TestNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ooplab3.*" />
+          <option name="PATTERN" value="ooplab4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab3.TestNestedLoop" />
+      <option name="MAIN_CLASS_NAME" value="ooplab4.TestMethods" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -197,14 +193,14 @@
       <module name="OOP_359211110083" />
       <envs />
     </configuration>
-    <configuration name="TestSwtich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ooplab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab3.TestSwtich" />
+      <option name="MAIN_CLASS_NAME" value="ooplab3.TestNestedLoop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -317,19 +313,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestSwtich" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestDOWhileLoop" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestCondition" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestDOWhileLoop" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestCondition" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestMethods" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestCondition" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestDOWhileLoop" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestSwtich" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestMethods" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestCondition" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestDOWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512529090899</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="TestNestedLoop">
+      <created>1512531900745</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1512531900745</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -470,7 +473,8 @@
     <MESSAGE value="TestWhileLoop" />
     <MESSAGE value="CalgradeEdit" />
     <MESSAGE value="TestDoWhileLoop" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestDoWhileLoop" />
+    <MESSAGE value="TestNestedLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNestedLoop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -645,6 +649,21 @@
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab4/TestMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
