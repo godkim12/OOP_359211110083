@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75b16d15-0c3b-4608-9988-f223f5c564e3" name="Default" comment="SortingArray">
+    <list default="true" id="75b16d15-0c3b-4608-9988-f223f5c564e3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab6/myStringBuffer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab6/myString.java" afterPath="$PROJECT_DIR$/src/ooplab6/myString.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +15,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab6/myString.java">
+      <file leaf-file-name="myStringBuffer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab6/myStringBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="432">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/ooplab5/TestRunnumber.java" />
         <option value="$PROJECT_DIR$/src/ooplab5/SortingArray.java" />
         <option value="$PROJECT_DIR$/src/ooplab6/myString.java" />
+        <option value="$PROJECT_DIR$/src/ooplab6/myStringBuffer.java" />
       </list>
     </option>
   </component>
@@ -143,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.myString">
+  <component name="RunManager" selected="Application.myStringBuffer">
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -171,25 +175,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ooplab5.SortingArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OOP_359211110083" />
-      <envs />
-    </configuration>
-    <configuration name="TestArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ooplab5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab5.TestArraylist" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -320,20 +305,39 @@
       <module name="OOP_359211110083" />
       <envs />
     </configuration>
+    <configuration name="myStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ooplab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ooplab6.myStringBuffer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OOP_359211110083" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestArraylist" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SortingArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Exercise" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestRunnumber" />
-      <item index="4" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SortingArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Exercise" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestRunnumber" />
+      <item index="3" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.myStringBuffer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.myString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SortingArray" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestRunnumber" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Exercise" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestArraylist" />
+        <item index="0" class="java.lang.String" itemvalue="Application.myStringBuffer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.myString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SortingArray" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestRunnumber" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513741932339</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="myString">
+      <created>1513743233776</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1513743233776</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,7 +564,8 @@
     <MESSAGE value="TestArraylist" />
     <MESSAGE value="TestRunnumber" />
     <MESSAGE value="SortingArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortingArray" />
+    <MESSAGE value="myString" />
+    <option name="LAST_COMMIT_MESSAGE" value="myString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -804,6 +816,17 @@
         <state relative-caret-position="54">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab6/myStringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
