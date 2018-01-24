@@ -28,6 +28,8 @@ public class StudentApp {
         Student s3 = new Student();
         s3 = inputData(s3);
         System.out.println(s3.toString());
+        System.out.println(s3.group);
+        System.out.println(Student.group);
     }
 
     private static Student inputData(Student s) {

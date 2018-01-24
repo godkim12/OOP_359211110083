@@ -7,6 +7,7 @@ package ooplab7;
 
 public class Student {
     //properties of Student ตัวเดียวกับตามที่ใครจะเรียกแอตทิบิ้ว
+    public static String group = "is222";
     private String id;
     private String name;
     private String address;
