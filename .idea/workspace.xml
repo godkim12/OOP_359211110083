@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75b16d15-0c3b-4608-9988-f223f5c564e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab7/StudentApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,8 +17,8 @@
       <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab7/StudentApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="463">
+              <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -550,12 +549,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516760470363</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Class and Objice : StudentAPP">
+      <created>1516762837926</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1516762837926</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -612,7 +617,8 @@
     <MESSAGE value="myStringBuffer" />
     <MESSAGE value="MidTerm_3.1" />
     <MESSAGE value="Class and Objice get and set" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and Objice get and set" />
+    <MESSAGE value="Class and Objice : StudentAPP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and Objice : StudentAPP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -975,8 +981,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab7/StudentApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="463">
+          <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding />
         </state>
       </provider>
