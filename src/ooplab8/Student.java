@@ -1,7 +1,7 @@
 package ooplab8;
 
 import java.util.Date;
-//Student si Person
+//Student is Person
 //Student is sub-class of person class
 //Person is super-class
 
