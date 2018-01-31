@@ -6,6 +6,5 @@ public class PetApp {
         System.out.println(dog.toString());
         dog.makeNoise();
     }
-    //cat
 
 }//class
