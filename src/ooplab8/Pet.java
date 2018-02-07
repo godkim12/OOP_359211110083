@@ -1,6 +1,7 @@
 package ooplab8;
 
 public abstract class Pet {
+    String msg="Hello";
     private String name;
     private int age;
 //constructor
@@ -10,10 +11,9 @@ public abstract class Pet {
     }
 
     //adstract method
-    public abstract void makeNoise();
+    protected abstract void makeNoise();
 
     //tostring
-
     @Override
     public String toString() {
         return "Pet{" +
